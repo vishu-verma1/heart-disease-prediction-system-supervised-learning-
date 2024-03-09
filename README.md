@@ -1,8 +1,8 @@
-# heart-desease-prediction-system-supervised-learning-
+# heart-disease-prediction-system-supervised-learning-
 **Programing Language -> R**
 **dataset heart_disease_data.csv(downloaded from kaggle)**
 
-##INTRODUCTION
+## INTRODUCTION
 
 This is a basic system designed to predict heart disease using given criteria. It relies on supervised machine learning techniques and has been implemented using R programming. The dataset on which this system has been trained was downloaded from Kaggle.com.
 
